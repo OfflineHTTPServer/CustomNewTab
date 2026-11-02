@@ -1,0 +1,17 @@
+img {
+    width: auto;
+
+    height: 100%;
+
+    margin-top: -0%;
+    margin-left: -0%;
+    justify-self: center;
+    justify-content: center;
+    display: flex;
+}
+
+body {
+    overflow: hidden;
+    background-color: black;
+    border-color: azure;
+}
